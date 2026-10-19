@@ -1,0 +1,4 @@
+interface:
+  display_name: "Work Progress Tracker"
+  short_description: "跨裝置接續研究與實作，預覽確認後同步 GitHub 與 K 槽"
+  default_prompt: "Use $work-progress-tracker to 整理研究與實作進度，預覽三層文件與 GitHub 提交範圍，確認寫入後同步工作分支及 K 槽。"
